@@ -1,0 +1,6 @@
+package com.example.navigationnextpage_backpage
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
